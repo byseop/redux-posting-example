@@ -1,5 +1,6 @@
 ## What is this repo?
-![redux](redux.png)
+![redux](redux.png)  
+  
 This repo is an example of a redux [tutorial](https://byseop.netlify.com/redux-04/) on my blog.  
   
 
